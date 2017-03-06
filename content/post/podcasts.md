@@ -32,3 +32,5 @@ search for these in your podcast client -- the patreon subscription ones won't s
 [jordan peterson podcast](https://soundcloud.com/jordanpetersonpodcast) | peterson is a psychology professor at uni of toronto who's made waves in the last year. his lectures are really superb, typically tying psychology to ethics, morality, history, and philosophy -- i recommend starting [here](https://www.youtube.com/watch?v=I8Xc2_FtpHI&t=6043s) for the if you're unfamiliar
 
 i didn't bother listing the npr shows, they're out there if you like them though. i'm partial to radiolab and open source.
+
+---

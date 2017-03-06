@@ -8,7 +8,7 @@ description = ""
 
 +++
 
-_i switched to linux_ about 2.5 years ago, after using windows my entire life, starting with 3.1 on a desktop in my room that i got in 1997. i have to say i am absolutely delighted with the state of desktop linux. i tried using linux on my computers a few times over the years without having it stick -- first with suse on a laptop in 2002 using cd's i picked up at a used bookstore, then with ubuntu in about 2010. both times i got fed up with minor annoyances that required much more work to fix than i was used to, inside an unfamiliar paradigm that frustrated me.
+i switched to linux about 2.5 years ago, after using windows my entire life, starting with 3.1 on a desktop in my room that i got in 1997. i have to say i am absolutely delighted with the state of desktop linux. i tried using linux on my computers a few times over the years without having it stick -- first with suse on a laptop in 2002 using cd's i picked up at a used bookstore, then with ubuntu in about 2010. both times i got fed up with minor annoyances that required much more work to fix than i was used to, inside an unfamiliar paradigm that frustrated me.
 
 what changed this time? well, i put openwrt on a router, and had to use vi to edit the configuration. i finally sat down to learn basic cli functions beyond simply copying commands verbatim from tutorials, and found that it had a relatively straightforward logic to it. i wanted to try unix-like operating systems again and see if i could hack it. this time around, my computers worked flawlessly out of the box, and i didn't have to fix any fundamental issues. i did one online tutorial in particular -- [learn the command line, by codecademy](https://www.codecademy.com/learn/learn-the-command-line) -- which left me feeling genuinely _excited_ about understanding how computers worked for the first time since i was a kid.
 
@@ -41,4 +41,6 @@ anyway, the reason i wanted to make this particular post was to share some of th
   * this is simply an open source clone of [f.lux](https://justgetflux.com/) -- if you're unfamiliar with it, it shifts the light temperature of your monitor towards warm/orange tint as the sun goes down. the idea is that blue light disrupts your internal clock and can hurt your sleep. instead, your monitor has a warm cfl-like glow as the night goes on. i find it much easier to look at, in any case.
 
 7. [fish](https://fishshell.com/)
-  * shell with syntax highlighting, autofinishing for commands and tabbing through flags, auto-generated manpages(!), and generally a much friendlier feel than bash. i've just switched to this as my default shell and i'm very pleased with it. "finally, a shell for the 90s". 
+  * shell with syntax highlighting, autofinishing for commands and tabbing through flags, auto-generated manpages(!), and generally a much friendlier feel than bash. i've just switched to this as my default shell and i'm very pleased with it. "finally, a shell for the 90s".
+
+  ---

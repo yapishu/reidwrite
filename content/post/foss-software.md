@@ -39,3 +39,6 @@ anyway, the reason i wanted to make this particular post was to share some of th
 
 6. [redshift](http://jonls.dk/redshift/)
   * this is simply an open source clone of [f.lux](https://justgetflux.com/) -- if you're unfamiliar with it, it shifts the light temperature of your monitor towards warm/orange tint as the sun goes down. the idea is that blue light disrupts your internal clock and can hurt your sleep. instead, your monitor has a warm cfl-like glow as the night goes on. i find it much easier to look at, in any case.
+
+7. [fish](https://fishshell.com/)
+  * shell with syntax highlighting, autofinishing for commands and tabbing through flags, auto-generated manpages(!), and generally a much friendlier feel than bash. i've just switched to this as my default shell and i'm very pleased with it. "finally, a shell for the 90s". 

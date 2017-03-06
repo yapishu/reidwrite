@@ -26,9 +26,9 @@ this is a feature i'd like to post roughly weekly, though i doubt it will be sch
 
 > French intellectuals have long been at the forefront of revolutionary thought. Voltaire and Rousseau radicalised French liberal opinion in the years before the toppling of the Ancien Regime. In the 20th Century, Sartre, Althusser and Badiou promoted communism, while Lacan, Derrida, and Foucault dug into the foundations of Western culture. Their disciples led the famous 1968 protests, which escalated to the point that President Charles De Gaulle fled to a military base in Germany.
 
-> http://quillette.com/2017/03/02/how-french-intellectuals-lost-their-faith/Now, it is not radicals who speak loudest in French culture. It is reactionaries. Novelists, philosophers and political commentators speak less of liberation than degeneracy, and less of revolution than decline.
+> Now, it is not radicals who speak loudest in French culture. It is reactionaries. Novelists, philosophers and political commentators speak less of liberation than degeneracy, and less of revolution than decline.
 
-  - [https://status451.com/2017/01/20/days-of-rage/](https://status451.com/2017/01/20/days-of-rage/) - status451.com
+  - [Days of Rage](://status451.com/2017/01/20/days-of-rage/) - status451.com
 
 > One thing that Burrough returns to in Days of Rage, over and over and over, is how forgotten so much of this stuff is. Puerto Rican separatists bombed NYC like 300 times, killed people, shot up Congress, tried to kill POTUS (Truman). Nobody remembers it.
 

@@ -10,7 +10,7 @@ date = "2017-03-02T22:11:27-06:00"
 
 this is a feature i'd like to post roughly weekly, though i doubt it will be scheduled. ~5-10 high quality links per post is my target. some weeks may lean more heavily into one topic or another, and politics will likely feature heavily, though i'd like to keep it loose.
 
----
+### reading
 
   - [Paleocons for Porn](https://www.jacobinmag.com/2017/02/paleocons-for-porn/) - Jacobin
 
@@ -39,8 +39,6 @@ this is a feature i'd like to post roughly weekly, though i doubt it will be sch
 > “Astronomers and physicists who develop an understanding of nuclear physics,” they write, “will correctly conclude that stars burn nuclear fuel. If they then conclude (incorrectly) that all the helium they observe was produced in earlier generations of stars, they will be able to place an upper limit on the age of the universe. These scientists will thus correctly infer that their galactic universe is not eternal but has a finite age. Yet the origin of the matter they observe will remain shrouded in mystery.”
 
 > In other words, essentially no observational tool available to future astronomers will lead to an accurate understanding of the universe’s origins. The authors call this an “apocalypse of knowledge.”
-
----
 
 ### misc links
 

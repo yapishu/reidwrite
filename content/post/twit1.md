@@ -4,7 +4,7 @@ title = "twitter cuts 1"
 categories = ["bloh"]
 draft = false
 description = ""
-tags = ["blog",""]
+tags = ["blog","twitter"]
 
 +++
 

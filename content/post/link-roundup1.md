@@ -3,7 +3,7 @@ title = "link roundup 1"
 tags = ["blog",""]
 categories = ["blog"]
 draft = false
-description = ""
+description = "links"
 date = "2017-03-02T22:11:27-06:00"
 
 +++

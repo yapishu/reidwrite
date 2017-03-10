@@ -4,7 +4,7 @@ draft = false
 description = ""
 date = "2017-03-07T14:13:18-06:00"
 title = "thoughts on the wikileaks cia malware dump"
-tags = ["blog",""]
+tags = ["blog","writing"]
 
 +++
 

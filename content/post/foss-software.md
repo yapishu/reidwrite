@@ -1,7 +1,7 @@
 +++
 date = "2017-03-01T21:04:27-06:00"
 title = "foss software"
-tags = ["blog",""]
+tags = ["blog","links", "writing"]
 categories = ["blog"]
 draft = false
 description = ""

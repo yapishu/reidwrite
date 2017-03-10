@@ -4,7 +4,7 @@ draft = false
 description = ""
 date = "2017-02-27T21:09:10-06:00"
 title = "podcasts"
-tags = ["blog",""]
+tags = ["blog","links"]
 
 +++
 continuing my theme of identity construction via media consumption, i've also spent the last couple of years building up a pretty impressive subscription list of podcasts.

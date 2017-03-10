@@ -1,7 +1,7 @@
 +++
 date = "2017-02-27T12:11:45-06:00"
 title = "good blogs"
-tags = ["blog",""]
+tags = ["blog","links"]
 categories = ["blog"]
 draft = false
 description = ""

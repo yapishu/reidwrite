@@ -1,9 +1,9 @@
 +++
 title = "link roundup 1"
-tags = ["blog",""]
+tags = ["blog","link"]
 categories = ["blog"]
 draft = false
-description = "links"
+description = ""
 date = "2017-03-02T22:11:27-06:00"
 
 +++
@@ -28,7 +28,7 @@ this is a feature i'd like to post roughly weekly, though i doubt it will be sch
 
 > Now, it is not radicals who speak loudest in French culture. It is reactionaries. Novelists, philosophers and political commentators speak less of liberation than degeneracy, and less of revolution than decline.
 
-  - [Days of Rage](://status451.com/2017/01/20/days-of-rage/) - status451.com
+  - [Days of Rage](https://status451.com/2017/01/20/days-of-rage/) - status451.com
 
 > One thing that Burrough returns to in Days of Rage, over and over and over, is how forgotten so much of this stuff is. Puerto Rican separatists bombed NYC like 300 times, killed people, shot up Congress, tried to kill POTUS (Truman). Nobody remembers it.
 

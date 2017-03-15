@@ -1,7 +1,7 @@
 +++
 date = "2017-02-28T16:15:26-06:00"
 title = "twitter cuts 1"
-categories = ["bloh"]
+categories = ["blog"]
 draft = false
 description = ""
 tags = ["blog","twitter"]

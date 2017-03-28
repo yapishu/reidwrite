@@ -42,5 +42,3 @@ anyway, the reason i wanted to make this particular post was to share some of th
 
 7. [fish](https://fishshell.com/)
   * shell with syntax highlighting, autofinishing for commands and tabbing through flags, auto-generated manpages(!), and generally a much friendlier feel than bash. i've just switched to this as my default shell and i'm very pleased with it. "finally, a shell for the 90s".
-
-  ---

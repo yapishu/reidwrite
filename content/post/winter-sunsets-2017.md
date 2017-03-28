@@ -13,5 +13,3 @@ draft = false
 [![](/img/sun2.jpg#full-center)](/img/sun2.jpg)
 
 the iphone 6s plus camera is **very** impressive: these were all off-the-hip snapchat shots that i decided to save.
-
----

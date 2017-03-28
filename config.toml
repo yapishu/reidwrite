@@ -1,4 +1,4 @@
-baseurl = "https://artorias.pw" # Controls base URL
+baseurl = "https://hyperstition.al" # Controls base URL
 languageCode = "en-US" # Controls html lang attribute
 title = "reid/write" # Homepage title and page title suffix
 paginate = 15 # Number of posts to show before paginating

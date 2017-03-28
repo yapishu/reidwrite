@@ -29,5 +29,3 @@ to make my position clear, i believe spying programs should be restricted by out
 it's going to take a while to go through these, but i'm one of the people who manually pores over every classified document that gets released when these things happen. everyone has hobbies :stuck_out_tongue:
 
 as an aside, i've been running a [tumblr blog](http://deep-state.tumblr.com) for the last few years with interesting or 'cute' excerpts from snowden documents and other sources related to IC classified programs. if you're interested in that kind of thing, you might check it out.
-
----

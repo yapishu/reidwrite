@@ -8,7 +8,7 @@ categories = ["blog"]
 
 +++
 
-i spent the better part of the last day working on getting a second site running on my vps. it's live now -- you can see it at [hyperstition.al](https://hyperstition.al) (get it?). i got lazy about theming and just cloned this blog for the moment. this writeup is mostly for reference in case anything breaks in the future.
+i spent the better part of the last day working on getting a second site running on my vps. it's live now -- you can see it at [hyperstition.al](https://hyperstition.al) (get it?). i got lazy about theming and just used hugo with the theme i tweaked for this blog for the moment. this writeup is mostly for reference in case anything breaks in the future.
 
 first step was registering .al, as cheaply as possible, which i ended up doing for 13/yr with a registrar called istanco (no points for guessing the nationality). it took surprisingly long for the domain to propagate -- at least six hours, i went to bed eventually. i thought that kind of latency was relegated to the old days, but i suppose that is to be expected with an albanian domain.
 
@@ -31,5 +31,3 @@ however, with the new domain's folder i kept getting error messages along the li
 i spent a good hour and a half trying to figure out what the fuck was going on, eventually figuring it had something to do with folder permissions, and trying to learn how to parse `ls -l` output. *eventually* i guessed that using chown on `/var/www/hyperstition.al` to change the owner ought to work, and some time after that realized that changing `public_html` in that folder was the real key. and, finally, all is as it should be -- rsync copies everything over without a hitch.
 
 i'm probably going to change the theme to [code-editor](http://themes.gohugo.io/hugo-code-editor-theme/) once i get around to writing something worth posting, but for now, i'm happy that everything is still humming along. and to celebrate: indian food tonight.
-
----

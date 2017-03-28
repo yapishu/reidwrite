@@ -49,5 +49,3 @@ and a few things i’ve found recently that i just wanted to share…
   - [txt.fyi](https://txt.fyi) – pastebin-type service, but nicer to look at.
 
   - [Lakka](https://retropie.org.uk/) / [RetroPie](https://retropie.org.uk/) – retro gaming operating systems for rpi.
-
----

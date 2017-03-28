@@ -11,5 +11,3 @@ tags = ["blog","twitter"]
 {{< tweet 831526470812106753 >}}
 
 :frog::tea:
-
----

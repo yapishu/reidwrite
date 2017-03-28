@@ -27,5 +27,3 @@ since i severed from social media in ~2014, i've switched to a more passive mode
 [west hunter](https://westhunt.wordpress.com/) | greg cochran, genetic anthropologist
 
 those are my favorites, but there are dozens more. i use [feedly](https://feedly.com/) to manage them -- thank god for rss.
-
----

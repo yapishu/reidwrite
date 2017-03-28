@@ -53,5 +53,3 @@ related: [What Went Wrong? Western Impact and Middle Eastern Response](https://w
 > Ransomware with the ability to enforce payments would provide a potent funding source for another type of autonomous agent: a Decentralized Autonomous Organization, or (DAO). These systems are “corporations” that consist entirely of code that runs on a consensus network like Ethereum. They’re driven by rules, and are capable of both receiving and transmitting funds without (direct) instruction from human beings.
 
 that last link has given me some ideas for a short story -- i'm still mulling over it, but there are a few ideas i'm excited about. watch this space, but no promises.
-
----

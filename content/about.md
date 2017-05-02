@@ -9,7 +9,7 @@ description = ""
 
 - [home](/)
 
-![about image](https://artorias.pw/about-crop.png)
+![about image](https://hyperstition.al/about-crop.png)
 
 - [twitter](https://twitter.com/cumcakes)
 - [keybase](https://keybase.io/cumcakes)

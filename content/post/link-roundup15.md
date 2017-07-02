@@ -90,7 +90,7 @@ draft = false
 
   - [gopass](https://github.com/justwatchcom/gopass) -- a drop-in golang rewrite of the nix `pass` utility, with some new extensibility
 
-  - [AQUATONE](https://github.com/michenriksen/aquatone) --
+  - [AQUATONE](https://github.com/michenriksen/aquatone)
 
 > AQUATONE is a set of tools for performing reconnaissance on domain names. It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach. After subdomain discovery, AQUATONE can then scan the hosts for common web ports and HTTP headers, HTML bodies and screenshots can be gathered and consolidated into a report for easy analysis of the attack surface.
 

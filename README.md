@@ -10,4 +10,4 @@ you can see my blog at [hyperstition.al](https://hyperstition.al)
 
 ## about me
 
-i'm reid, i live in texas. my twitter is [@cumcakes](https://twitter.com/cumcakes).
+i'm reid, i live in texas. my twitter is [@hyperstitional](https://twitter.com/hyperstitional).

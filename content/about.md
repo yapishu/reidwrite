@@ -10,11 +10,9 @@ description = ""
 
 ---
 
-[home](/) // [twitter](https://twitter.com/cumcakes) // [keybase](https://keybase.io/cumcakes)
+[home](/) // [twitter](https://twitter.com/hyperstitional) // [keybase](https://keybase.io/cumcakes)
 
 cyber // security // politics // history // future
-
-[![](/about-crop.png#full-center)](#)
 
 > [Hyperstition](http://merliquify.com/blog/articles/hyperstition-an-introduction/#.WJ-q2BIrJPM) is a positive feedback circuit including culture as a component. It can be defined as the experimental (techno-)science of self-fulfilling prophecies. Superstitions are merely false beliefs, but hyperstitions – by their very existence as ideas – function causally to bring about their own reality. Capitalist economics is extremely sensitive to hyperstition, where confidence acts as an effective tonic, and inversely. The (fictional) idea of Cyberspace contributed to the influx of investment that rapidly converted it into a technosocial reality.
 

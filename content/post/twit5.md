@@ -8,4 +8,4 @@ description = ""
 
 +++
 
-{{< tweet 860839761921138688 >}}
+[ this tweet was deleted :( ]

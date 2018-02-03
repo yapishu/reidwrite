@@ -3,7 +3,7 @@ date = "2017-05-17T19:52:36-05:00"
 title = "urbit"
 tags = ["blog","writing","urbit"]
 categories = ["blog"]
-draft = false
+draft = true
 description = ""
 
 +++
@@ -24,7 +24,7 @@ what is urbit? what *exactly* it will be remains to bee seen, but in broad strok
 
 an official (but less pensive) description of urbit can also be seen [here](https://urbit.org/posts/overview/) -- or, if you're impatient, this very broad 4 minute overview [video](https://www.youtube.com/watch?v=M04AKTCDavc).
 
-what i purchased, a star, is one of ~64k stars that will eventually exist on the urbit network, each with the ability to delegate ~64k 'planets', which are intended to be individual human identities. so, i'm buying [address space](https://urbit.org/posts/address-space/) -- one sixty-four thousandth of the eventual total. hopefully in the long term, this can be parlayed into some kind of business arrangement, but of course i'd like to take care of my friends and nudge them into what could be a much better future internet.
+what i purchased, a star, is one of ~64k stars that will eventually exist on the urbit network, each with the ability to delegate ~64k 'planets', which are intended to be individual human identities. so, i'm buying [address space](https://urbit.org/posts/address-space/) -- one sixty-four thousandth of the eventual total. hopefully in the long term, this can be parlayed into some kind of business arrangement, but of course i'd like to take care of my friends and nudge them into what could be stepping stone to a much better future internet.
 
 the network architecture follows cascading hierarchy: galaxies delegate stars, stars delegate planets... you get it. so, as a star owner, i'll be delegating planets in the (distant?) future.
 
@@ -38,13 +38,13 @@ planet | ~4B (32b) | human identity | ~mighex-forfem
 moon | 2^64 (64b) | devices | ~dabnev-nisseb-nomlec-sormug
 comet | 2^128 (128b) | network bots |  ~satnet-rinsyr-silsec-navhut--bacnec-todmeb-harwen-fabtev
 
-urbit, bitcoin, ethereum, and probably other technologies that don't exist yet will be the foundation of the next iteration of the internet: decentralized, emancipatory, and beyond the scope of worldly authority -- governmental, corporate, or otherwise. information gets to be free.
+urbit, bitcoin, ethereum, and probably other technologies that don't exist yet will be the foundation of the next iteration of the internet: decentralized and emancipated from its current constraints and weaknesses.
 
 plus: the name of urbit's development group, tlon, are named for a [borges story](https://en.wikipedia.org/wiki/Tl%C3%B6n,_Uqbar,_Orbis_Tertius) -- `Tlön, Uqbar, Orbis Tertius`.  borges has been my favorite writer of fiction for years, since i first found him by way of ted chiang. incidentally, the story's premise is something *remarkably* similar to the concept of [hyperstition](https://hyperstition.al/about/), the namesake for this blog's domain. the kabbalistic implications are simply beyond my ability to ignore! :stuck_out_tongue:
 
 of course, the fact that its development is headed by [curtis yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin) (aka [mencius modlbug](https://unqualified-reservations.blogspot.com/), a major intellectual figure of the new outer right) has caught a lot of people's critical attention. whatever you think of his politics, i think it's indisputable that he's fiercely intelligent. i'm not the only one that isn't spooked by his writing, either -- urbit has backing from a16z and peter thiel, among others.
 
-here's hoping that i'll be a filthy rich digital landlord in a decade or two; but i also find these ideas genuinely exciting and want to participate in them -- decentralization of the internet has fascinated me ever since i first learned about bittorrent at age 14, when trying to conceptualize a distributed system that could evade all attempts at censorship or control was so  intellectually thrilling that it pushed me to really get into computers and networking initially.
+i find these ideas genuinely exciting and want to participate in them -- decentralization of the internet has fascinated me ever since i first learned about bittorrent at age 14, when trying to conceptualize a distributed system that could evade all attempts at censorship or control was so thrilling that it pushed me to really get into computers and networking initially.
 
 so here's my little bet on the future -- definitely impulsive, possibly a waste of money (five hundo! woof), but i'm excited to both participate and watch this happen over the long haul.
 

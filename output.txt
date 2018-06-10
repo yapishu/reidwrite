@@ -1,0 +1,5 @@
+Started building sites ...
+ERROR 2017/12/02 01:14:23 Cannot read json from resource https://api.twitter.com/1/statuses/oembed.json?id=860839761921138688 with error message invalid character 'x' looking for beginning of value
+ERROR 2017/12/02 01:14:23 Retry #0 for https://api.twitter.com/1/statuses/oembed.json?id=860839761921138688 and sleeping for 2s
+ERROR 2017/12/02 01:14:25 Cannot read json from resource https://api.twitter.com/1/statuses/oembed.json?id=860839761921138688 with error message invalid character 'x' looking for beginning of value
+ERROR 2017/12/02 01:14:25 Retry #1 for https://api.twitter.com/1/statuses/oembed.json?id=860839761921138688 and sleeping for 2s
